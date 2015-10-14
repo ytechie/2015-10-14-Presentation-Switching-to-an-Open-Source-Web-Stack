@@ -6,14 +6,14 @@
 0. ..And TSD
 0. ..And yeoman
 0. Who knows what all of these are?
-0. I'm Jason Young
 0. I'm presenting all of these open source technologies on a Mac
 0. ..in a cross-platform editor
 0. ..using a cross-platform language
 0. I'm Jason Young
 0. I work at Microsoft
-0. I help companies built cool stuff on Azure
+0. I help companies build cool stuff on Azure
 0. I'm not an expert in these technologies
+	00. I dove headfirst into these for [ArmViz.io](http://armviz.io)
 0. This is [VS Code](https://code.visualstudio.com/)
 	00. Lightweight, cross-platform, *editor*
 	00. ASP.NET v5, Node.js
@@ -87,4 +87,5 @@
 0. Check out the [MS Dev Show](http://msdevshow.com)
 0. Follow me on Twitter @ytechie
 0. This presentation is available in my [GitHub account](https://github.com/ytechie)
+
 ## Thank you!
