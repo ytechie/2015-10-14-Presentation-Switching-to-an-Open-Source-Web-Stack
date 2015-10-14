@@ -1,0 +1,16 @@
+language: node_js
+node_js:
+  - 0.12
+  
+before_script:
+  - npm install -g gulp bower tsd typescript
+  - bower install
+  - tsd install
+script: gulp
+    
+deploy:
+  skip_cleanup: true
+  provider: script
+  script: scripts/deploy.sh
+  on:
+    branch: master
