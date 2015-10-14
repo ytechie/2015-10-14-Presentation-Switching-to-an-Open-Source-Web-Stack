@@ -22,6 +22,8 @@
 	00. Markdown editor
 	00. Git integration
 	00. Debugging capabilities
+	00. Multi-cursor
+	00. Alternatives include VS, Sublime, Atom.io
 0. Node.js Background
 	00. JavaScript
 	00. Stack of wood vs finished house that you make your own
@@ -47,9 +49,10 @@
 	00. Why not NPM? NPM is for Node. Bower is for front-end resources.
 	00. `npm install -g bower`
 	00. `bower search jquery`
-	00. `bower install jquery`
+	00. `bower init`
+	00. `bower install jquery --save`
 0. Other package manager basics
-	00. Save packages with `--save`
+	00. Save packages with `--save` and `--save-dev`
 	00. Install packages with `install`
 0. Can we make this easier yo?
 0. ..I mean Yeoman
@@ -72,17 +75,19 @@
 	00. Project management
 	00. Great new build system
 	00. Use the pieces you want
-0. Azure
-	00. Websites start at $0
-	00. Publish with Git
 0. Azure x-plat CLI
 	00. `npm install -g azure`
 	00. `azure account download`
 	00. `azure account import xxx`
 	00. `azure site create newdugx`
+0. Azure
+	00. Websites start at $0
+	00. Publish with Git
 0. Git to Azure
 	00. `git remote add azure https://ytechie@newdugx.scm.azurewebsites.net:443/newdugx.git`
 	00. `git push azure master`
+0. Final Thoughts
+	00. Dependencies are frail
 0. Questions?
 0. Check out the [MS Dev Show](http://msdevshow.com)
 0. Follow me on Twitter @ytechie
